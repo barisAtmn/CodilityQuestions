@@ -1,7 +1,8 @@
 import scala.collection.JavaConverters._
 
-// you can write to stdout for debugging purposes, e.g.
-// println("this is a debug message")
+/*
+* Find longest sequence of zeros in binary representation of an integer.
+*/
 
 object Solution {
   def solution(n: Int): Int = {
